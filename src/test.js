@@ -1,1 +1,1 @@
-console.log('Flow')
+console.log('Flow')console.log('Release')
